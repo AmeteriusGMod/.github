@@ -7,7 +7,7 @@
 - Source code: [GitHub](https://github.com/AmeteriusGMod)  
   - *Usually published immediately*  
   - *Might delay updates sometimes (>_<)*
-  - *And I've brought you to the same place where you're reading this from. (*_*)*  
+  - *And I've brought you to the same place where you're reading this from. (+_+)*  
 
 ❗ **Important Notes**  
 - Collection contains mods with varying stability  
